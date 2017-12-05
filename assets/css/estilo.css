@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.formulario {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  align-items: center;
+}
+
+p {
+  text-align: center;
+}

@@ -1,0 +1,7 @@
+INSERT INTO `usuario` (`nome`, `email`, `idade`) VALUES ('vinicius moura', 'vitormouraesilva@gmail.com', '14')INSERT INTO `usuario` (`nome`, `email`, `idade`) VALUES ('vinicius moura', 'viniciusmouraesilva2204@gmail.com', '25')
+INSERT INTO `usuario` (`nome`, `email`, `idade`) VALUES ('thiago', 'viniciusmouraesilva2204@gmail.com', '14')
+INSERT INTO `usuario` (`nome`, `email`, `idade`) VALUES ('vinicius moura', 'viniciusmouraesilva2204@gmail.com', '29')
+INSERT INTO `usuario` (`nome`, `email`, `idade`) VALUES ('vinicius moura', 'viniciusmouraesilva2204@gmail.com', '14')
+INSERT INTO `usuario` (`nome`, `email`, `idade`) VALUES ('vinicius moura', 'vitormouraesilva@gmail.com', '14')
+INSERT INTO `usuario` (`nome`, `email`, `idade`) VALUES ('vinicius moura', 'viniciusmouraesilva2204@outlook.com', '14')
+INSERT INTO `usuario` (`nome`, `email`, `idade`) VALUES ('thiago', 'vitormouraesilva@gmail.com', '45')
